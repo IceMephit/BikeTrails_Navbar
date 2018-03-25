@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/start"
+            android:icon="@drawable/nyancat"
+            android:title="@string/start" />
+        <item
+            android:id="@+id/stats"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/stats" />
+        <item
+            android:id="@+id/trails"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/trails" />
+        <item
+            android:id="@+id/settings"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/action_settings" />
+        <item
+            android:id="@+id/loginFB"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/loginFB" />
+        <item
+            android:id="@+id/loginGoogle"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/loginGoogle" />
+    </group>
+</menu>

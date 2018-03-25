@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Bike Parks</string>
+    <string name="title_activity_maps">Bike Park Map</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="start">Start</string>
+    <string name="stats">Stats</string>
+    <string name="trails">Trails</string>
+    <string name="loginGoogle">Login with Google</string>
+    <string name="loginFB">Login with FaceBook</string>
+    <string name="action_settings">Settings</string>
+</resources>
